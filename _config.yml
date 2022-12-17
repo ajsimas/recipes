@@ -21,7 +21,7 @@
 title: Austin's Recipes
 email: austin@simas.io
 description:
-baseurl: "/recipes" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "recipes.simas.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ajsimas
 github_username:  ajsimas
