@@ -1,2 +1,4 @@
-- [Corn Casserole](https://recipes.simas.io/corncasserole)
-- [Pineapple Curry](https://recipes.simas.io/pineapplecurry)
+# Recipes
+
+- [Corn Casserole](https://recipes.simas.io/CornCasserole)
+- [Pineapple Curry](https://recipes.simas.io/PineappleCurry)
