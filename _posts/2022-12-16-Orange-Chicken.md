@@ -18,7 +18,7 @@ permalink: /OrangeChicken/
 * Juice of 1/2 lemon
 
 ### Chicken
-* Chicken thigh 
+* (Missing quantity) Chicken thigh
 
 ## Steps
 ### Sauce
