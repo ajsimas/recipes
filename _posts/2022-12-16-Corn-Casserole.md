@@ -2,10 +2,9 @@
 layout: post
 title:  "Corn Casserole"
 date:   2022-12-16 20:35:49 -0700
-categories: dinner sides
+categories: dinner side
 permalink: /CornCasserole/
 ---
-
 ## Ingredients
 * 0.5 cups butter (softened)
 * 0.5 cups sugar
