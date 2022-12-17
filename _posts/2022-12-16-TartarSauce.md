@@ -3,6 +3,7 @@ layout: post
 title:  "Tartar sauce"
 date:   2022-12-16 22:27:49 -0700
 categories: dinner sauce
+tags: recipe
 permalink: /TartarSauce/
 ---
 ## Ingredients

@@ -2,7 +2,11 @@
 layout: page
 title: Recipes
 ---
-## Completed recipes
+{% for post in site.posts %}
+  * {{ post.title }}
+{% endfor %}
+
+## Old Recipes
 * [Corn Casserole](https://recipes.simas.io/CornCasserole)
 * [Cream cheese rangoons](https://recipes.simas.io/CreamCheeseRangoons)
 * [Fried Fish](https://recipes.simas.io/FriedFish)
@@ -10,5 +14,5 @@ title: Recipes
 * [Pineapple Curry](https://recipes.simas.io/PineappleCurry)
 * [Tartar Sauce](https://recipes.simas.io/TartarSauce)
 
-## In-progress recipes
+## Drafts
 * [Orange Chicken](https://recipes.simas.io/OrangeChicken)
