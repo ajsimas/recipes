@@ -14,4 +14,4 @@ permalink: /HotChocolate/
 ## Steps
 1. Add all ingredients to pot.
 2. Heat to between 150°F and 170°F.
-3. Mix occasionally until all chocolate and peppermint have disolved.
+3. Mix occasionally until **chocolate** and **peppermint** have disolved.
