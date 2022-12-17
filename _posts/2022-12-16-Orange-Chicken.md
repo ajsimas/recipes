@@ -16,6 +16,7 @@ permalink: /OrangeChicken/
 * 2 cloves glaric, minced
 * Zest and juice of 1 large navel orange
 * Juice of 1/2 lemon
+
 ### Chicken
 * Chicken thigh 
 
@@ -26,4 +27,5 @@ permalink: /OrangeChicken/
 3. In a small bowl, mix together **water** and **cornstarch**, then stir into sauce pan
 4. Continue to reduce for another 2 minutes.
 5. Remove from heat.
+
 ### Chicken
