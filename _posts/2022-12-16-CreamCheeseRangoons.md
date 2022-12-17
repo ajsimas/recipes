@@ -10,11 +10,9 @@ permalink: /CreamCheeseRangoons/
 * Cream cheese
 * Hidden Valley Ranch Dressing Seasoning mix
 * Green onion, tops thinly sliced
+***Note:*** *No ingredient quantities included. Use best judgement when chosing ingredient ratios.*
 
 ## Steps
 1. Mix **cream cheese**, **dressing seasoning**, and **green onions** together.
 2. Spoon mix into **wonton wrappers**, pinch wonton wrapper closed.
 3. Deep fry in neutral oil at 375°F until golden brown.
-
-***Note:***
-No ingredient quantities included. Use best judgement when chosing ringredient ratios.
