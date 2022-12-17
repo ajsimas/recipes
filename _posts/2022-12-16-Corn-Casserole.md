@@ -2,7 +2,8 @@
 layout: post
 title:  "Corn Casserole"
 date:   2022-12-16 20:35:49 -0700
-categories: dinner, sides
+categories: dinner sides
+permalink: /corncasserole/
 ---
 
 ## Ingredients
