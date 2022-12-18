@@ -23,13 +23,15 @@ email: austin@simas.io
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "recipes.simas.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ajsimas
-github_username:  ajsimas
+# twitter_username: ajsimas
+# github_username:  ajsimas
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+minima: 
+  skin: dark
 
 # Exclude from processing.
 # The following items will not be processed, by default.
