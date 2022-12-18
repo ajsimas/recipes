@@ -17,6 +17,7 @@ permalink: /WhiteChickenChili/
 * 1 tsp cumin powder
 * 0.4oz packet ranch dip or dressing mix
 * 8oz package cream cheese, cut into 6 pieces
+
 ## Steps
 1. Put all ingredients into Instant Pot and mix
 2. Cook on high pressure for **20 minutes**, let depressurize naturally fro **10 minutes**, then vent.
