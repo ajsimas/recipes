@@ -3,6 +3,7 @@ layout: post
 title:  "Cream Cheese Rangoons"
 date:   2022-12-16 21:54:49 -0700
 categories: dinner side
+tags: recipe
 permalink: /CreamCheeseRangoons/
 ---
 ## Ingredients

@@ -3,6 +3,7 @@ layout: post
 title:  "Hot Chocolate"
 date:   2022-12-16 21:42:49 -0700
 categories: drink
+tags: recipe
 permalink: /HotChocolate/
 ---
 ## Ingredients

@@ -3,6 +3,7 @@ layout: post
 title:  "Corn Casserole"
 date:   2022-12-16 20:35:49 -0700
 categories: dinner side
+tags: recipe
 permalink: /CornCasserole/
 ---
 ## Ingredients

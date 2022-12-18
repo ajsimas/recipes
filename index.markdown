@@ -2,17 +2,28 @@
 layout: page
 title: Recipes
 ---
-{% for post in site.posts %}
-  * {{ post.title }}
+{% assign sorted_recipes = site.posts | sort: 'title' %}
+<ul>
+{% for recipe in sorted_recipes %}
+{% if recipe.tags contains 'recipe' %}
+{% unless recipe.tags contains 'draft' %}
+<li>
+  <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+</li>
+{% endunless %}
+{% endif %}
 {% endfor %}
+</ul>
 
-## Old Recipes
-* [Corn Casserole](https://recipes.simas.io/CornCasserole)
-* [Cream cheese rangoons](https://recipes.simas.io/CreamCheeseRangoons)
-* [Fried Fish](https://recipes.simas.io/FriedFish)
-* [Hot Chocolate](https://recipes.simas.io/HotChocolate)
-* [Pineapple Curry](https://recipes.simas.io/PineappleCurry)
-* [Tartar Sauce](https://recipes.simas.io/TartarSauce)
-
-## Drafts
-* [Orange Chicken](https://recipes.simas.io/OrangeChicken)
+### Drafts
+<ul>
+{% for recipe in sorted_recipes %}
+{% if recipe.tags contains 'recipe' %}
+{% if recipe.tags contains 'draft' %}
+<li>
+  <a href="{{ recipe.url }}">{{ recipe.title }}</a>
+</li>
+{% endif %}
+{% endif %}
+{% endfor %}
+</ul>

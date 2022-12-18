@@ -3,7 +3,7 @@ layout: post
 title:  "Fried Fish"
 date:   2022-12-16 22:20:49 -0700
 categories: dinner maincourse
-tags: recipes
+tags: recipe
 permalink: /FriedFish/
 ---
 ## Ingredients
