@@ -20,6 +20,6 @@ permalink: /WhiteChickenChili/
 
 ## Steps
 1. Put all ingredients into Instant Pot and mix
-2. Cook on high pressure for **20 minutes**, let depressurize naturally fro **10 minutes**, then vent.
+2. Cook on high pressure for **20 minutes**, let depressurize naturally for **10 minutes**, then vent.
 3. Shred chicken.
 4. Mix to combine.
