@@ -17,7 +17,7 @@ permalink: /FriedFish/
 
 ## Steps
 1. Put **0.5 cups flour** on a plate.
-2. Mix **250g flour**, **baking soda**, and **curry powder** in a large bowl. Add **beer** until you reach the consistency of pancakes.
+2. Mix **250g flour**, **baking soda**, and **curry powder** in a large bowl. Slowly whisk in **beer** until you reach the consistency of pancake batter.
 3. Whisk egg whites to a stiff peak. Add to batter.
 4. Season cod with salt.
 5. Dredge cod in dry flour. Knock flour off. Add cod to batter.
