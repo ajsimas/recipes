@@ -28,3 +28,4 @@ permalink: /PeppermintIceCream/
 * Is sieve necessary?
 * Is pre-chilling necessary?
 * Is food coloring necessary?
+* Butter fat content in heavy cream is 36% and 3.5% in whole milk. Ratio should be 50/50 to acheive butter fat of 19.75% (Which is in the recommended 12%-20%).
