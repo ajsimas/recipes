@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fruit Salad"
-categories: lunch sides
+categories: sides
 tags: recipe sides
 permalink: /FruitSalad/
 ---
