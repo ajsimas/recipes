@@ -3,7 +3,7 @@ layout: post
 title: "Orange Chicken"
 date: 2022-12-16 21:27:20 -0700
 categories: dinner main-course
-tags: recipe draft
+tags: recipe
 permalink: /OrangeChicken/
 ---
 
@@ -47,4 +47,6 @@ permalink: /OrangeChicken/
 2. Add **chicken thighs**. Toss until evenly coated.
 3. Add **corn starch** to chicken thighs. Use hand to coat each piece of chicken
    entirely. Use enough corn starch to ensure that each piece of chicken is
-   separate and dry.k
+   separate and dry.
+4. Deep fry chicken in neutral oil at 350°F.
+5. Toss chicken in sauce.
