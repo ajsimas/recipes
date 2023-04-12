@@ -23,30 +23,31 @@ permalink: /OrangeChicken/
 
 ### Chicken
 
-- 1 tbsp soy sauce
-- 1 tsp sesame oil
-- 1 tsp sugar
+- 2 tbsp soy sauce
+- 2 tsp sesame oil
+- 2 tsp sugar
 - 1 egg
 - 6 chicken thighs, cut into bite-sized chunks
-- 1-2 cup corn starch
+- 1 cup corn starch
+- 1 cup flour
 
 ## Steps
 
 ### Sauce
 
-1. Add all ingredients (except water and cornstarch) into a sauce pan.
-2. Heat on high for 5 minutes, stirring occasionally.
-3. In a small bowl, mix together **water** and **cornstarch**, then stir into
-   sauce pan
-4. Continue to reduce for another 2 minutes.
-5. Remove from heat.
+1. Whisk together **water** and **cornstarch** in small bowl, set aside.
+2. Heat remaining ingredients on high in sauce pan until boiling, stirring
+   occasionally.
+3. Immediately whisk in water/cornstarch mixture.
+4. Continue to reduce until desired consistency is reached.
+5. Remove from heat. Strain through fine mesh strainer.
 
 ### Chicken
 
 1. Whisk together **soy sauce**, **sesame oil**, **sugar**, and **egg**.
 2. Add **chicken thighs**. Toss until evenly coated.
-3. Add **corn starch** to chicken thighs. Use hand to coat each piece of chicken
-   entirely. Use enough corn starch to ensure that each piece of chicken is
-   separate and dry.
-4. Deep fry chicken in neutral oil at 350°F.
-5. Toss chicken in sauce.
+3. Whisk together **corn starch** and **flour**
+4. Add corn starch/flour mixture to chicken thighs. Use hand to coat each piece
+   of chicken entirely. Each piece of chicken should be separate and dry.
+5. Deep fry chicken in neutral oil at 350°F.
+6. Toss chicken in sauce.
