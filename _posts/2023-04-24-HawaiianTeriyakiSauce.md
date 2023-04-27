@@ -9,9 +9,9 @@ permalink: /HawaiianTeriyakiSauce/
 ## Ingredients
 
 - 0.5 cups soy sauce
-- 0.25 cups brown sugar, packed
-- 0.25 cups pineapple juice
-- 2 tbsp honey
+- 0.5 cups brown sugar, packed
+- 0.5 cups pineapple juice
+- 0.25 cups honey
 - 1 tbsp rice vinegar
 - 1 tbsp minced garlic
 - 1 tbsp minced ginger
