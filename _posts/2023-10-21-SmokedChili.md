@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Smoked Chili"
-date: 2023-10-21 21:27:20 -0700
 categories: dinner main-course
 tags: recipe
 permalink: /SmokedChili/
