@@ -23,7 +23,7 @@ permalink: /LemonCake/
 - 0.75 cup powdered sugar
 - Fresh lemon juice (amount as needed)
 
-Directions:
+## Directions:
 
 1. Preheat your oven to 350 degrees Fahrenheit. Prepare your cake pan by
    greasing it and dusting it with flour to prevent sticking.
