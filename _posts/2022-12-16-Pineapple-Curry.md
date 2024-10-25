@@ -16,9 +16,14 @@ updated: 2023-03-30 09:26:00 -0700
 - (3) 13.5oz organic lite coconut milk
 - (1) 20oz can of Dole pineapple chunks in 100% pineapple juice
 - 0.5 cups sugar
+- 2 tsp kosher salt
 
 ## Steps
 
 1. Add all ingredients to pot
 2. Boil until bell peppers are soft
 3. Serve with rice
+
+## Test
+
+Let raw chick marinate in coconut milk, curry paste and salt before cooking
