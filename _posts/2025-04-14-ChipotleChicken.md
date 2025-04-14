@@ -22,8 +22,5 @@ permalink: /ChipotleChicken/
 
 ## Steps
 
-1. In a blender or food processor, combine **olive oil**, **adobo sauce**,
-   **ancho chili powder**, **minced garlic**, **ground cumin**, **dried
-   oregano**, **kosher salt**, **black pepper**, **honey** (if using), and
-   **white vinegar or lime juice**. Blend until smooth.
+1. In a blender or food processor, combine all ingredients. Blend until smooth.
 2. Cover **chicken** in marinade.
