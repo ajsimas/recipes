@@ -9,7 +9,7 @@ permalink: /ChipotleBurritos/
 ## Ingredients
 
 - Tortillas
-- Protein ((Chipotle chicken)[/ChipotleChicken/])
+- Protein ([ Chipotle chicken ](/ChipotleChicken/))
 - Cilantro lime rice
 - Black beans
 - Corn
