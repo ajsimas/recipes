@@ -1,7 +1,12 @@
 ---
 id: 2025-06-07-TacoSauce
 aliases: []
-tags: []
+tags:
+  - recipe
+categories: sauce
+layout: post
+permalink: /TacoSauce/
+title: Taco Sauce
 ---
 
 ## Ingredients
