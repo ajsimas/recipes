@@ -8,7 +8,7 @@ permalink: /WhiteChickenChili/
 ## Ingredients
 * 2 large chicken breasts
 * (1) 15oz can black beans, drained and rinsed
-* (1) 15oz can blacwhite beans, drained
+* (1) 15oz can black beans, drained
 * (1) 15oz can corn, with juice
 * (1) 10oz can Rotel diced tomatoes with green chilis, with juice
 * 1 medium onion, chopped
